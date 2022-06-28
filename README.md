@@ -80,27 +80,29 @@
  
 # 📊 GitHub Stats:
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-   
+<div align="center">  
+ 
 ![](https://github-readme-stats.vercel.app/api?username=acjacinto&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-   
-   </div>
-  <div class="col-md-4" markdown="1">
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acjacinto&theme=radical&hide_border=true)<br/>
-   
-   </div>
-</div>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acjacinto&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
 ## 🏆 GitHub Trophies
+
+<div align="center">  
+ 
 ![](https://github-profile-trophy.vercel.app/?username=acjacinto&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+ 
+</div>
   
 ### ✍️ Random Dev Quote
+
+<div align="center">  
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/acjacinto) 
