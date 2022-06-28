@@ -79,10 +79,13 @@
 </td></tr></table>   
  
 # 📊 GitHub Stats:
+<div align="center">  
+ 
 ![](https://github-readme-stats.vercel.app/api?username=acjacinto&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acjacinto&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acjacinto&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
- 
+
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=acjacinto&theme=radical&no-frame=true&no-bg=false&margin-w=4)
   
