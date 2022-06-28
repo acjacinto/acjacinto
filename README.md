@@ -1,110 +1,104 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=acjacinto.acjacinto">
 
-# 💫 About Me:
-🔭 I’m currently working on ERP Web-based System<br>🌱 I’m currently learning Cross-Platform Development<br>💬 Ask me about anything related to Web and Mobile Development<br>👨‍💻 My projects are available at acjacinto.lumelayenterprises.com.ph<br>⚡ Fun fact: I also write poems, read books, and do paintings at my free time
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=<Hi+There!/>+👋;+Welcome+to+my+Profile;&center=true&size=30"> 
+  </a>
+</h1>
 
-[![](https://visitcount.itsvg.in/api?id=acjacinto&icon=7&color=10)](https://visitcount.itsvg.in)
+<br>
+<p align="center">
+  Hi, I'm AC Jacinto, Full-Stack Developer 👩‍💻,  Learner 🙋‍♀️ &  Gamer 🎮 from Philippines 🇵🇭
+  <br>
+  <br>
+  🎓 Completed my bachelors degree as Cum Laude from <a href="https://earist.edu.ph/"> EARIST CAVITE CAMPUS.</a>
+  <br>
+  💻 I love to learn new technologies and artificial intelligence.
+  <br>
+  👩‍💼 I’m currently working as I.T Manager / Senior Programmer at <a href="https://lumelayenterprises.com.ph/"> LUMELAY ENTERPRISES OPC </a> 
+  <br>
+  📂  You can visit my Portfolio at <a href="https://acjacinto.lumelayenterprises.com.ph/"> AC Jacinto - Full Stack Developer </a> 
+  <br>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ac.jacinto.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_acjacinto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/acjacinto789) 
-
-# 💻 Tech Stack:
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend & Servers  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Others  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-</div>
-
-</td></tr></table>   
- 
-# 📊 GitHub Stats:
-
-<div align="center">  
- 
-![](https://github-readme-stats.vercel.app/api?username=acjacinto&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=acjacinto&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=acjacinto&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">  
- 
-![](https://github-profile-trophy.vercel.app/?username=acjacinto&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center"> 
+  <a href="https://www.facebook.com/ac.jacinto.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/_acjacinto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jacintoalydacaye@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/acjacinto789/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.paypal.com/paypalme/acjacinto" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a> 
  
 </div>
-  
-### ✍️ Random Dev Quote
 
-<div align="center">  
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<hr>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,php,html,css,js,jquery,java,wordpress,bootstrap,materialui,laravel,py,react,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,gradle,c,cs,cpp,dotnet,mysql,sqlite,firebase,gcp,heroku,androidstudio,arduino,blender" /><br>
+    <img src="https://skillicons.dev/icons?i=codepen,eclipse,figma,godot,prisma,unity,visualstudio,vscode,ae,ai,ps,pr" />
+  </a>
+</p>
+<br>
+<h4>Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,angular,dart,django,graphql,kotlin,linux,mongodb,raspberrypi" />
+  </a>
+</p>
+<hr>
 
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/acjacinto/acjacinto/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
 </div>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/acjacinto) 
+  <hr>
 
-  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=acjacinto&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=acjacinto&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acjacinto&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <br>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=acjacinto&theme=radical-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/acjacinto/squid-game-elimination" title="Squid Game Elimination"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=squid-game-elimination&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/acjacinto/computerized-voting-system" title="Computerized Voting System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=computerized-voting-system&theme=radical&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/acjacinto/computerized-voting-system-v2" title="Computerized Voting System V2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=computerized-voting-system-v2&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/acjacinto/random-vb6-activities" title="Random Visual Basic 6.0 Activities"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=random-vb6-activitie&theme=radical&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/acjacinto?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
