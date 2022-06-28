@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](google.com)
-
 
 # 💫 About Me:
 🔭 I’m currently working on ERP Web-based System<br>🌱 I’m currently learning Cross-Platform Development<br>💬 Ask me about anything related to Web and Mobile Development<br>👨‍💻 My projects are available at acjacinto.lumelayenterprises.com.ph<br>⚡ Fun fact: I also write poems, read books, and do paintings at my free time
