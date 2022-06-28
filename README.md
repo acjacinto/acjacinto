@@ -1,3 +1,5 @@
+[<img src="./assets/ac.gif">](https://acjacinto.lumelayenterprises.com.ph/)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=acjacinto.acjacinto">
 
 <h1 align="center">
@@ -8,10 +10,10 @@
 
 <br>
 <p align="center">
-  Hi, I'm AC Jacinto, Full-Stack Developer 👩‍💻,  Learner 🙋‍♀️ &  Gamer 🎮 from Philippines 🇵🇭
+  Hi, I'm AC Jacinto, Full-Stack Developer 👩‍💻,  Learner 🙋‍♀️,  &  Gamer 🎮 from Philippines 🇵🇭
   <br>
   <br>
-  🎓 Completed my bachelors degree as Cum Laude from <a href="https://earist.edu.ph/"> EARIST CAVITE CAMPUS.</a>
+  🎓 Completed my bachelors degree in Computer Science as Cum Laude from <a href="https://earist.edu.ph/"> EARIST CAVITE CAMPUS.</a>
   <br>
   💻 I love to learn new technologies and artificial intelligence.
   <br>
