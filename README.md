@@ -60,7 +60,7 @@
 
   <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -85,7 +85,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👩‍💻 Repositories 👩‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/acjacinto/tic-tac-toe" title="Tic Tac Toe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=tic-tac-toe&theme=radical&border_color=61dafb&border_radius=10"></a>
