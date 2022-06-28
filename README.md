@@ -94,7 +94,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/acjacinto/computerized-voting-system-v2" title="Computerized Voting System V2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=computerized-voting-system-v2&theme=radical&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/acjacinto/random-vb6-activities" title="Random Visual Basic 6.0 Activities"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=random-vb6-activitie&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/acjacinto/random-vb6-activities" title="Random Visual Basic 6.0 Activities"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=random-vb6-activities&theme=radical&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
