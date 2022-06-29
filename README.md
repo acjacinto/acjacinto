@@ -67,10 +67,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=acjacinto&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=acjacinto&theme=radical-dark&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=acjacinto&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=acjacinto&show_icons=true&theme=radical-dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -90,13 +90,13 @@
 <h2 align="center">👩‍💻 Repositories 👩‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/acjacinto/tic-tac-toe" title="Tic Tac Toe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=tic-tac-toe&theme=radical&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/acjacinto/computerized-voting-system" title="Computerized Voting System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=computerized-voting-system&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/acjacinto/tic-tac-toe" title="Tic Tac Toe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=tic-tac-toe&theme=radical-dark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/acjacinto/computerized-voting-system" title="Computerized Voting System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=computerized-voting-system&theme=radical-dark&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/acjacinto/computerized-voting-system-v2" title="Computerized Voting System V2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=computerized-voting-system-v2&theme=radical&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/acjacinto/random-vb6-activities" title="Random Visual Basic 6.0 Activities"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=random-vb6-activities&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/acjacinto/computerized-voting-system-v2" title="Computerized Voting System V2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=computerized-voting-system-v2&theme=radical-dark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/acjacinto/random-vb6-activities" title="Random Visual Basic 6.0 Activities"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=acjacinto&repo=random-vb6-activities&theme=radical-dark&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
