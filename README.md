@@ -17,9 +17,9 @@
   <br>
   💻 I love to learn new technologies and artificial intelligence.
   <br>
-  👩‍💼 I’m currently working as I.T Manager / Full-Stack Wev Developer at <a href="https://lumelayenterprises.com.ph/"> LUMELAY ENTERPRISES OPC </a> 
+  👩‍💼 I’m currently working as Full-Stack Wev Developer at <a href="https://www.linkedin.com/learning"> MR SUPPLY CHAIN, LINKEDIN LEARNING </a> 
   <br>
-  📂  You can visit my Portfolio at <a href="https://acjacinto.lumelayenterprises.com.ph/"> AC Jacinto - Full Stack Developer </a> 
+  📂  You can visit my Portfolio at <a href="#"> AC Jacinto - Full Stack Developer </a> 
   <br>
 </p>
 
